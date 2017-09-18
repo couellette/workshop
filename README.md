@@ -4,6 +4,7 @@ To start off in **cmd(windows)/terminal(mac)** navigate to your folder directory
 ###### **In the event you do not have python installed on your machine there are windows and mac version available for installation within the python folder directory.*
 
 Data is available at https://couellette.github.io/workshop/data/ux-data.csv
+For viewing: https://docs.google.com/spreadsheets/d/1EbtA-MlGpv3xplUwuuZj39zl2VkdMqCBkrOEJ1sjHvM/edit?usp=sharing
 
 ## Map visualization:
 To view the completed version go to https://couellette.github.io/workshop/map/index-done.html
