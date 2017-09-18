@@ -5,7 +5,7 @@ To start off in **cmd(windows)/terminal(mac)** navigate to your folder directory
 
 
 ## Map visualization:
-To view the completed version go to map/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/map/index-done.html
 
 For this module we will cover:
 
@@ -30,7 +30,7 @@ For this module we will cover:
 
 
 ## Bar visualization:
-To view the completed version go to bar/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/bar/index-done.html
 
 For this module we will cover:
 
@@ -47,7 +47,7 @@ For this module we will cover:
 
 
 ## Pie visualization:
-To view the completed version go to pie/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/pie/index-done.html
 
 For this module we will cover:
 
@@ -64,7 +64,7 @@ For this module we will cover:
 
 
 ## Line visualization:
-To view the completed version go to line/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/line/index-done.html
 
 For this module we will cover:
 
@@ -80,7 +80,7 @@ For this module we will cover:
 - set the source location of bar.js file [41]
 
 ## Combined graph visualization:
-To view the completed version go to index-done.html
+To view the completed version go to https://couellette.github.io/workshop/index-done.html
 
 For this module we will cover:
 
