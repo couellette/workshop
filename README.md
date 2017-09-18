@@ -1,6 +1,6 @@
 # workshop
 
-To start off in **cmd** navigate to your folder directory (ex. cd Documents/workshop)<br /><br />Start a simple server type or copy and paste: **python -m SimpleHTTPServer**<br /> 
+To start off in **cmd** navigate to your folder directory (ex. cd Documents/workshop)<br /><br />To start a simple server type or copy and paste: **python -m SimpleHTTPServer**<br /> 
 ###### **In the event you do not have python installed on your machine there are windows and mac version available for installation within the python folder directory.*
 
 
