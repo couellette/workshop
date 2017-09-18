@@ -73,7 +73,7 @@ For this module we will cover:
 - Define the data location **[30]**
 - Define timeframe **[34]**
 - Quantify/group non-numeric values **[38,39]**
-- Define x-axis **[49]
+- Define x-axis **[49]**
 
 ### index.html
 - name div to match the graph location **[40]**
