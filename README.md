@@ -1,8 +1,8 @@
 # workshop
 
 To start off in cmd navigate to your folder directory (ex. cd Documents/workshop)
-Start a simple server type or copy and paste: python -m SimpleHTTPServer
-*In the event you do not have python installed on your machine there are windows and mac version available for installation within the python folder directory.
+- Start a simple server type or copy and paste: python -m SimpleHTTPServer
+- *In the event you do not have python installed on your machine there are windows and mac version available for installation within the python folder directory.
 
 
 Map visualization:
@@ -24,10 +24,10 @@ index.html
 
 Additional mapbox styles for map.js [11]:
 
-Dark: mapbox://styles/mapbox/dark-v9 
-Navigation: mapbox://styles/mapbox/navigation-guidance-day-v2
-Satellite: mapbox://styles/mapbox/satellite-v9
-Light: mapbox://styles/mapbox/light-v9
+- Dark: mapbox://styles/mapbox/dark-v9 
+- Navigation: mapbox://styles/mapbox/navigation-guidance-day-v2
+- Satellite: mapbox://styles/mapbox/satellite-v9
+- Light: mapbox://styles/mapbox/light-v9
 
 
 Bar visualization:
