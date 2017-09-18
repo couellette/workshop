@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+.map {
+    width: 75%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+   	border-left: solid 1px gray
+}
+.pie {
+    height: 300px;
+    width: 270px;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+.bar {
+    position: absolute;
+    height: 400px;
+    width: 370px;
+    top: 310px;
+    left: -10px;
+}
+.line {
+    position: absolute;
+    background: white;
+    bottom: 0;
+    width: 100%;
+    height: 226px;
+    border-top: solid 1px gray;
+}
+h2 {
+    position: absolute;
+    right: 0;
+    z-index: 100;
+    background: white;
+    padding: 15px 40px;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 0;
+    border-left: solid 12px gray;
+    border-bottom: solid 2px gray;
+    color: #0099c4;
+}
