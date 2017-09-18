@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiY291ZWxsZXR0ZSIsImEiOiJjajBrMHVmZW4wMXllMnFtZW9weDhuancwIn0.vSIlhzkgSsNyGQMz5C28iw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY291ZWxsZXR0ZSIsImEiOiJjajdxZGhwenEwamRsMnFucXhzZGg2dWJiIn0.FdR_XFTCKPc3LyW_phK1NA';
 
 var Americas = [
     [-135.0,12.2], // Southwest coordinates
