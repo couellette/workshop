@@ -20,7 +20,7 @@
                 .y(function(d) { return yScale(d["concentration"]); });
 
     // Define svg canvas
-    var svg = d3.select("[LOCATION]").append("svg"). // Define where you want to place the graph
+    var svg = d3.select("[LOCATION]").append("svg") // Define where you want to place the graph
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
@@ -31,12 +31,12 @@ var totalTweets = 0;
       if (error) throw error;
 
       data.forEach(function(d){
-        d.["WHAT SHOULD WE MEASURE?"] = parseDate(d.["WHAT SHOULD WE MEASURE?"]). // Time frame of how we measure
+        d.["WHAT SHOULD WE MEASURE?"] = parseDate(d.["WHAT SHOULD WE MEASURE?"]) // Time frame of how we measure
       });
 
 var lineData = d3.nest()
   .key(function(d) { return d.["WHAT SHOULD WE MEASURE?"]; }) // Sum the non numeric values togethor by category
-  .key(function(d) { return d.["WHAT SHOULD WE MEASURE?"]; }). // Time frame of how we measure
+  .key(function(d) { return d.["WHAT SHOULD WE MEASURE?"]; }) // Time frame of how we measure
 .rollup(function(v) { return v.length; })  .entries(data)
  .map(function(group) {
     return {
