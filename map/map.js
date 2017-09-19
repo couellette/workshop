@@ -32,7 +32,7 @@ var circleColor = d3.scale.ordinal()
 
 
 
-d3.csv("[DEFINE THE DATA LOCATION]", function(err, data) {. // Define your data location
+d3.csv("[DEFINE THE DATA LOCATION]", function(err, data) { // Define your data location
 
 var active = false;
 var circleControl = new circleSelector(svg)
@@ -59,7 +59,7 @@ dots.enter().append("circle").classed("dot", true)
     .attr("r", 6)
 
 
-var legend = d3.select("[LOCATION]").append("svg"). // Define your legend
+var legend = d3.select("[LOCATION]").append("svg") // Define your legend
         .attr("class", "legend")
         .attr("width", 140)
         .attr("height", 200)
