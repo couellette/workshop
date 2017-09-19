@@ -9,7 +9,7 @@ width = 350 - margin.left - margin.right
 
 var totalTweets = 0;
 
-var Barsvg = d3.select("[LOCATION]").append("svg"). //Where should it go?
+var Barsvg = d3.select("[LOCATION]").append("svg") //Where should it go?
     .attr("height", height + margin.top + margin.bottom)
     .attr("width", width + margin.left + margin.right)
     .append("g") 
@@ -40,7 +40,7 @@ var yAxis = d3.svg.axis()
     });
 
 
-d3.csv("[DEFINE THE DATA LOCATION]", function(err, data) {. // Define the data location
+d3.csv("[DEFINE THE DATA LOCATION]", function(err, data) { // Define the data location
     var cityCount = d3.nest()
         .key(function(d) {
             return d.place_full_name;
