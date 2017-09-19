@@ -7,8 +7,8 @@ Data is available at https://couellette.github.io/workshop/data/ux-data.csv <br 
 For viewing: https://docs.google.com/spreadsheets/d/1EbtA-MlGpv3xplUwuuZj39zl2VkdMqCBkrOEJ1sjHvM/edit?usp=sharing
 
 ## Map visualization:
-To view the completed version go to https://couellette.github.io/workshop/map/index-done.html
-
+To view the completed version go to https://couellette.github.io/workshop/map/index-done.html <br />
+Available fiddle: https://jsfiddle.net/couellete/voczkavk/ <br />
 For this module we will cover:
 
 ### map.js
@@ -32,7 +32,8 @@ For this module we will cover:
 
 
 ## Bar visualization:
-To view the completed version go to https://couellette.github.io/workshop/bar/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/bar/index-done.html <br />
+Available fiddle: https://jsfiddle.net/couellete/5375yqd5/3/ <br />
 
 For this module we will cover:
 
@@ -49,7 +50,8 @@ For this module we will cover:
 
 
 ## Pie visualization:
-To view the completed version go to https://couellette.github.io/workshop/pie/index-done.html
+To view the completed version go to https://couellette.github.io/workshop/pie/index-done.html <br />
+Available fiddle: https://jsfiddle.net/couellete/pfag3Lqs/1/ <br />
 
 For this module we will cover:
 
@@ -66,8 +68,8 @@ For this module we will cover:
 
 
 ## Line visualization:
-To view the completed version go to https://couellette.github.io/workshop/line/index-done.html
-
+To view the completed version go to https://couellette.github.io/workshop/line/index-done.html <br />
+Available fiddle: https://jsfiddle.net/couellete/sydzf2rx/5/ <br />
 For this module we will cover:
 
 ### line.js
