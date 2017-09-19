@@ -8,7 +8,6 @@ For viewing: https://docs.google.com/spreadsheets/d/1EbtA-MlGpv3xplUwuuZj39zl2Vk
 
 ## Map visualization:
 To view the completed version go to https://couellette.github.io/workshop/map/index-done.html <br />
-Available fiddle: https://jsfiddle.net/couellete/voczkavk/ <br />
 
 For this module we will cover:
 
