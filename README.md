@@ -72,6 +72,7 @@ For this module we will cover:
 ## Line visualization:
 To view the completed version go to https://couellette.github.io/workshop/line/index-done.html <br />
 Available fiddle: https://jsfiddle.net/couellete/sydzf2rx/5/ <br />
+
 For this module we will cover:
 
 ### line.js
