@@ -25,7 +25,7 @@ var Piesvg = d3.select("#pie").append("svg")
   .append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-d3.csv("../data/ux-data.csv", function(err, data) {
+d3.csv("https://couellette.github.io/workshop/data/ux-data.csv ", function(err, data) {
     //  console.log(data[0], getLL(data[0]), project(data[0]))
   var sentimentCount = d3.nest()
     .key(function(d) { return d.sentiment; })

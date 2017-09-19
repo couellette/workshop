@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiY291ZWxsZXR0ZSIsImEiOiJjajBrMHVmZW4wMXllMnFtZW9weDhuancwIn0.vSIlhzkgSsNyGQMz5C28iw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY291ZWxsZXR0ZSIsImEiOiJjajdxZGhwenEwamRsMnFucXhzZGg2dWJiIn0.FdR_XFTCKPc3LyW_phK1NA';
 
 var Americas = [
     [-135.0,12.2], // Southwest coordinates
@@ -32,7 +32,7 @@ var circleColor = d3.scale.ordinal()
 
 
 
-d3.csv("../data/ux-data.csv", function(err, data) {
+d3.csv("https://couellette.github.io/workshop/data/ux-data.csv ", function(err, data) {
     //  console.log(data[0], getLL(data[0]), project(data[0]))
 
 

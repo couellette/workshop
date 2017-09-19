@@ -28,7 +28,7 @@
 
 var totalTweets = 0;
     // Read in data
-    d3.csv("../data/ux-data.csv", function(error, data){
+    d3.csv("https://couellette.github.io/workshop/data/ux-data.csv ", function(error, data){
       if (error) throw error;
 
       data.forEach(function(d){

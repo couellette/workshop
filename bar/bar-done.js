@@ -41,7 +41,7 @@ var yAxis = d3.svg.axis()
     });
 
 
-d3.csv("../data/ux-data.csv", function(err, data) {
+d3.csv("https://couellette.github.io/workshop/data/ux-data.csv ", function(err, data) {
     //  console.log(data[0], getLL(data[0]), project(data[0]))
     var cityCount = d3.nest()
         .key(function(d) {
