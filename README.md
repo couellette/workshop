@@ -33,7 +33,7 @@ For this module we will cover:
 
 ## Bar visualization:
 To view the completed version go to https://couellette.github.io/workshop/bar/index-done.html <br />
-Available fiddle: https://jsfiddle.net/couellete/5375yqd5/3/ <br />
+Available fiddle: https://jsfiddle.net/couellete/5375yqd5/4/ <br />
 
 For this module we will cover:
 
