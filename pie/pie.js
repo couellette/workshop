@@ -32,9 +32,6 @@ d3.csv("[DEFINE THE DATA LOCATION]", function(err, data) { // Define where the d
     .rollup(function(v) { return v.length; })
     .entries(data);
 
-
-
-
 sentimentCount.forEach(function(d) {
     d.["WHAT SHOULD WE MEASURE?"] = d.key;  // Sum the non numeric values togethor by category
     d.amount = d.values;
