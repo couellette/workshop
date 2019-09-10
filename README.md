@@ -7,6 +7,7 @@ For viewing: https://docs.google.com/spreadsheets/d/1EbtA-MlGpv3xplUwuuZj39zl2Vk
 ## Map visualization:
 To view the completed version go to https://couellette.github.io/workshop/map/index-done.html <br />
 Map fiddle: https://jsfiddle.net/couellete/voczkavk/2/ <br />
+Map styles: https://docs.mapbox.com/api/maps/#styles <br />
 ###### **Mapbox visualization may not work in jsfiddle*
 
 For this module we will cover:
